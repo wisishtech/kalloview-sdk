@@ -1,5 +1,5 @@
 {
-  "name": "@kalloview/solana-sdk",
+  "name": "@wisishtech/kalloview-solana-sdk",
   "author": "Wisish Tech",
   "version": "1.0.0",
   "description": "TypeScript client for KalloView Solana program",
